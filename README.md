@@ -24,5 +24,7 @@ As the project documents provided are for reference and documentation purposes, 
 ## How to Contribute
 Contributions to the Broadway Courier Services project are welcome. Please reach out to me for any suggestions or feedback regarding the project.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 I appreciate your interest in the Broadway Courier Services project.
